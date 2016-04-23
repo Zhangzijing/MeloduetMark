@@ -1,0 +1,7 @@
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\bin\Debug\PluginDevelopmentKits.dll
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\bin\Debug\PluginDevelopmentKits.pdb
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\obj\Debug\PluginDevelopmentKits.Properties.Resources.resources
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\obj\Debug\PluginDevelopmentKits.csproj.GenerateResource.Cache
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\obj\Debug\PluginDevelopmentKits.dll
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\obj\Debug\PluginDevelopmentKits.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\MeloduetMark\PluginDevelopmentKits\bin\Debug\MarkdownDeep.dll

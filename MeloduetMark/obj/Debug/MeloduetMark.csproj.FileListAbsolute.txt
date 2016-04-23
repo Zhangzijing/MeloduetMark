@@ -1,0 +1,13 @@
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\bin\Debug\MeloduetMark.exe
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\bin\Debug\MeloduetMark.pdb
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.MainWindow.resources
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.Properties.Resources.resources
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.csproj.GenerateResource.Cache
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.exe
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.pdb
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.csprojResolveAssemblyReference.cache
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\bin\Debug\PluginDevelopmentKits.dll
+c:\users\t\documents\visual studio 2015\Projects\MeloduetMark\MeloduetMark\bin\Debug\PluginDevelopmentKits.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\MeloduetMark\MeloduetMark\bin\Debug\MarkdownDeep.dll
+C:\Users\T\Documents\Visual Studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.Forms.PluginMan.resources
+C:\Users\T\Documents\Visual Studio 2015\Projects\MeloduetMark\MeloduetMark\obj\Debug\MeloduetMark.Forms.AboutBox.resources
