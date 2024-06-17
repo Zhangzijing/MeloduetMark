@@ -17,10 +17,3 @@
 
 ## 下载
 你可以直接到[Binary目录](https://github.com/Zhangzijing/MeloduetMark/tree/master/Binary)下载
-
-## 反馈
-我是一个高中生, 代码写的并不够好, 欢迎你给我一些建议, 我很乐意从中学习!
-
-Email: zhang_zi_jing@hotmail.com
-
-QQ: 296263103
